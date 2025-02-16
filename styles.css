@@ -1,0 +1,20 @@
+#cart-summary {
+    transition: all 0.3s ease;
+    opacity: 0;
+    display: block !important;
+}
+
+#cart-summary.d-none {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#cart-summary:not(.d-none) {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.card {
+    background-color: #FFFFCC;
+    border: 1px solid #ddd;
+}

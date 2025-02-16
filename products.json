@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Car Floor Mats",
+      "description": "Durable, waterproof floor mats for all-weather protection.",
+      "price": 25.99,
+      "image": "images/car-floor-mats.jpg"
+    },
+    {
+      "id": 2,
+      "name": "LED Headlights",
+      "description": "Bright LED headlights for improved nighttime visibility.",
+      "price": 39.99,
+      "image": "images/led-headlights.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Car Phone Holder",
+      "description": "Securely mount your phone for hands-free navigation.",
+      "price": 14.99,
+      "image": "images/car-phone-holder.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dashboard Camera",
+      "description": "1080p HD dash cam with night vision and motion detection.",
+      "price": 59.99,
+      "image": "images/dashboard-camera.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Car Air Freshener",
+      "description": "Long-lasting fresh scent for a pleasant driving experience.",
+      "price": 9.99,
+      "image": "images/car-air-freshener.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Car Seat Covers",
+      "description": "Premium, washable seat covers to protect your car seats.",
+      "price": 45.99,
+      "image": "images/car-seat-covers.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Steering Wheel Cover",
+      "description": "Non-slip, comfortable grip steering wheel cover.",
+      "price": 19.99,
+      "image": "images/steering-wheel-cover.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jump Starter",
+      "description": "Portable jump starter for emergency battery boost.",
+      "price": 89.99,
+      "image": "images/jump-starter.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tire Pressure Gauge",
+      "description": "Digital tire pressure gauge for accurate tire readings.",
+      "price": 12.99,
+      "image": "images/tire-pressure-gauge.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Car Vacuum Cleaner",
+      "description": "Compact and powerful vacuum for interior cleaning.",
+      "price": 34.99,
+      "image": "images/car-vacuum-cleaner.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Trunk Organizer",
+      "description": "Foldable trunk organizer with multiple compartments.",
+      "price": 29.99,
+      "image": "images/trunk-organizer.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bluetooth FM Transmitter",
+      "description": "Wireless music and hands-free calling for your car.",
+      "price": 24.99,
+      "image": "images/bluetooth-fm-transmitter.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Windshield Sun Shade",
+      "description": "UV protection and heat reduction sunshade.",
+      "price": 15.99,
+      "image": "images/windshield-sun-shade.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Car Cleaning Kit",
+      "description": "Complete cleaning set including microfiber towels and sprays.",
+      "price": 49.99,
+      "image": "images/car-cleaning-kit.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Emergency Roadside Kit",
+      "description": "Essential safety kit including jumper cables and flashlight.",
+      "price": 69.99,
+      "image": "images/emergency-roadside-kit.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Car Cover",
+      "description": "Waterproof, UV-protected car cover for outdoor storage.",
+      "price": 79.99,
+      "image": "images/car-cover.jpg"
+    }
+  ]
+  
